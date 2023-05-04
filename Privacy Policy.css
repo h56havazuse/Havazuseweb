@@ -1,0 +1,28 @@
+/*font*/
+@font-face{
+	font-family: Georgia Regular;
+	src: url(font/georgia/Georgia Regular.ttf);
+}
+
+@font-face{
+	font-family: nunito;
+	src: url(font/nunito/Nunito-VariableFont_wght.ttf);
+	src: url(font/nunito/Nunito-Italic-VariableFont_wght.ttf);
+}
+
+.Georgia-Regular{
+	font-family: Georgia Regular;
+}
+
+.Nunito-Regular{
+	font-family: Nunito-Regular;
+}
+
+
+
+/*menu*/
+
+
+nav div ul li a{
+	text-decoration: none;
+}
